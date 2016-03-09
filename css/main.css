@@ -49,7 +49,7 @@ footer {
 	font-style: italic;
 }
 
-header + p::first-line{
+header + p::first-line {
 	font-style: italic;
 	color: #1e7c74;
 }
